@@ -22,4 +22,7 @@
 - Git & GitHub
 
 ---
+### Experience
+Machine Learning Engineer Intern -Remote
+TechX Labs, Inc.| Boston, MA, 02111, United States| 3Feb- Present
 
