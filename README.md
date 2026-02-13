@@ -1,10 +1,10 @@
-<h1 align="center">Aziz Bohra</h1>
+ <h1 align="center">Aziz Bohra</h1>
 <h3 align="center">Electronics & Communication Engineer | AI | VLSI |</h3>
 
 ---
 ## 🎓 Education
 
-**B.Tech – Electronics & Communication Engineering |Techno India NJR Institute of Technology||Udaipur India|***
+**B.Tech – Electronics & Communication Engineering  |Techno India NJR Institute of Technology| |Udaipur India|**
 
 ---
 
