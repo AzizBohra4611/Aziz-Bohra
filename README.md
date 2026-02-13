@@ -5,24 +5,25 @@
 ## 🎓 Education
 
 **B.Tech – Electronics & Communication Engineering** 
-**Techno India NJR Institute of Technology
+|Techno India NJR Institute of Technology|
+|Udaipur India|
 
 ---
 
 ## 🛠 Technical Skills
 
-### Programming
-- C
-- Python
-- MATLAB
+### Programming:
+C,
+ Python,
+ MATLAB
 
-### Engineering Tools
-- VS code
-- CST Studio (Learning)
-- Git & GitHub
+### Tools:
+ VS code,
+ CST Studio,
+ Git & GitHub
 
 ---
-### Experience
+<h3>Experience</h3>
 Machine Learning Engineer Intern -Remote
 TechX Labs, Inc.| Boston, MA, 02111, United States| 3Feb- Present
 
