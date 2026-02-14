@@ -24,13 +24,17 @@ VLSI Design, Signal Processing, Power Electronics
 
 ##  Technical Skills
 
-###  Programming : C, Python  MATLAB
+###  Programming :
+C, Python  MATLAB
 
-### Wireless & Systems : 4G/5G Fundamentals ,OFDM, MIMO, Modulation Techniques, RF & Antenna Theory  
+### Wireless & Systems :
+4G/5G Fundamentals ,OFDM, MIMO, Modulation Techniques, RF & Antenna Theory  
 
-###  VLSI & Hardware : Digital Design Basics ,Static Timing Analysis, FPGA Concepts  
+###  VLSI & Hardware :
+Digital Design Basics ,Static Timing Analysis, FPGA Concepts  
 
-### Tools : VS Code, CST Studio ,Git & GitHub, NgSpice  
+### Tools : 
+VS Code, CST Studio ,Git & GitHub, NgSpice  
 
 ---
 
