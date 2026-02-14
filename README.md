@@ -1,4 +1,4 @@
-\documentclass[a4paper,10pt]{article}
+[\documentclass[a4paper,10pt]{article}
 
 \usepackage[left=0.6in,right=0.6in,top=0.6in,bottom=0.6in]{geometry}
 \usepackage{titlesec}
@@ -87,3 +87,4 @@ Skills: Embedded C, Embedded Systems \\
 \section*{SOFT SKILLS}
 Problem Solving, Logical Thinking, Time Management
 \end{document}
+](https://www.overleaf.com/)
