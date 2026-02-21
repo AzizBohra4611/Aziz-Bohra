@@ -20,7 +20,7 @@ Techno India NJR Institute of Technology, Udaipur, India
 Wireless Communication, Antennas & Wave Propagation, Computer Networks,  
 VLSI Design, Signal Processing, Power Electronics  
 
-***_______________________________________________________________________________________________________________________________________________________***
+___
 
 ##  Technical Skills
 
@@ -36,7 +36,7 @@ Digital Design Basics ,Static Timing Analysis, FPGA Concepts
 ### Tools : 
 VS Code, CST Studio ,Git & GitHub, NgSpice  
 
-***_______________________________________________________________________________________________________________________________________________________***
+____
 
 ##  Professional Experience
 
@@ -48,7 +48,7 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
 - Configured Ubuntu-based cloud servers and installed Node.js runtime environments  
 - Managed source code repositories using Git & GitHub  
 
-***_______________________________________________________________________________________________________________________________________________________***
+___
 ##  Projects
 
 ### Antenna Simulation using CST Studio
@@ -59,7 +59,7 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
 - Developed classic Snake game with movement mechanics and collision detection  
 - Implemented score tracking and boundary constraints  
 
-***_______________________________________________________________________________________________________________________________________________________***
+____
 
 ## Certifications
 
@@ -70,9 +70,9 @@ VS Code, CST Studio ,Git & GitHub, NgSpice
   - Skills: Embedded C, Embedded Systems  
 - **Electronic Device Simulation (NgSpice) and Analysis – NPTEL**
 
-***_______________________________________________________________________________________________________________________________________________________***
+____
 
 ## Soft Skills:
 Problem Solving ,Logical Thinking, Time Management  
 
-***_______________________________________________________________________________________________________________________________________________________***
+____
